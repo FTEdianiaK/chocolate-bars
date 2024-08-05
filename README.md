@@ -40,7 +40,7 @@
 	
 	B. Everywhere you go, you see the "give us money" popups and alerts.<br>*(e.g. Cosmetica offers as much cosmetics as, if not more than, *"Moon"* and they're completely free.)*
 	
-	C. Have you ever checked what *"Moon"* sends to their telemetry server when you use it? Like if it wasn't enough that Mojang has theirs set in stone.<br>*(Unless you have a mod, like the one in this modpack)*
+	C. Have you ever checked what *"Moon"* sends to their telemetry server when you use it? Like if it wasn't enough that you can't turn of Snooper.<br>*(Unless you have a mod, like the one in this modpack)*
 
 ### Modlist
 
