@@ -18,6 +18,7 @@
   - ["Optifines"](#optifines)
   - [Other Optimizers](#other-optimizers)
   - [Cosmetics](#cosmetics)
+  - [Social](#social)
 - [Resource Pack Order](#resource-pack-order)
   - [Dark GUI](#dark-gui)
   - [Mobs](#mobs)
@@ -32,19 +33,19 @@
 
 ### About
 
-- This modpack's purpose is to serve as an open alternative to those popular clients, such as *"Moon"*.
+- This modpack's purpose is to serve as an open alternative to those popular clients, such as Lunar.
 
 - I left these since:
 
 	A. They're not that customizable and impose a lot of stuff on the user.<br>*(You can disable anything in the modpack if you don't like it, fyi.)*
 	
-	B. Everywhere you go, you see the "give us money" popups and alerts.<br>*(e.g. Cosmetica offers as much cosmetics as, if not more than, *"Moon"* and they're completely free.)*
+	B. Everywhere you go, you see the "give us money" popups and alerts.<br>*(e.g. Cosmetica offers as much cosmetics as, if not more than, Lunar and they're completely free.)*
 	
-	C. Have you ever checked what *"Moon"* sends to their telemetry server when you use it? Like if it wasn't enough that you can't turn off Snooper.<br>*(Unless you have a mod, like the one in this modpack)*
+	C. Have you ever checked what Lunar sends to their telemetry server when you use it? Like if it wasn't enough that you can't turn off Snooper.<br>*(Unless you have a mod, like the one in this modpack)*
 
 ### Modlist
 
-⚠️ **Required** (for one reason or another) | 💖 **Recommended** (to keep on) | 🫵 **Optional** (on/off, doesn't matter)
+⚠️ **Required** (for one reason or another) | 💖 **Recommended** (to keep on) | 🫵 **Optional** (on/off, doesn't matter) | ✋ **More steps** (optional, with more setup needed)
 
 #### Base
 
@@ -66,6 +67,7 @@
 
 - 🫵 **AmbientEnvironments** - mixes grass color, I like it, depends if you want it or not
 - 💖 **CIT Resewn** - if you're using the resource packs below, it's a necessity
+- 🫵 **Cubes Without Borders** - true borderless finally comes to Minecraft
 - 💖 **Cull Leaves** - optifine had this, might help with performance while keeping those pretty transparent leaves
 - 💖 **Entity Model Features** - if you're using the resource packs below, it's a necessity
 - 💖 **Entity Texture Features** - same as above
@@ -78,7 +80,7 @@
 
 #### Other Optimizers
 
-*All of these below are a mystery to me, but they seem to work and do they're job well, so I can fully recommend them.*
+*All of these below are a mystery to me, but they seem to work and do their job well, so I can fully recommend them.*
 
 - 💖 **FerriteCore** - reduces memory usage
 - 💖 **FPS Reducer** - reduces GPU and CPU usage when you're idle
@@ -89,10 +91,12 @@
 
 #### Cosmetics
 
-- 🫵 **Cosmetica** - free alternative to *"Moon"* and such cosmetics *(fox ears and rainbow capes go brrr~)*
+- 🫵 **Cosmetica** - free alternative to Lunar and such cosmetics *(fox ears and rainbow capes go brrr~)*
 - 🫵 **Not Enough Animations** - wow, that is really cool
 - 🫵 **Simple RPC (+ CraterLib)** - if you wanna support the project
 - 🫵 **WaveyCapes** - capes go woosh~ in the wind!
+#### Social
+- ✋ **Plasmo Voice** - (SERVER-SIDE REQUIRED) - proximity voice chat, does nothing if it isn't also installed on the server
 
 ### Resource Pack Order
 
@@ -113,21 +117,17 @@
 8. FA+ Quivers
 9. Fresh Animations
 
-#### Blocks
-
-10. Visible Ores
-
 #### Items
 
-11. xali's potions
-12. Even Better Enchants
+10. xali's potions
+11. Even Better Enchants
 
 #### Base
 
-13. Low fire
-14. [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
-15. Fabric Mods
-16. Default
+12. Low fire
+13. [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
+14. Fabric Mods
+15. Default
 
 ### Shader Pack
 
@@ -142,6 +142,17 @@ A: Um, dunno. Check with them and their rules, I suppose. In theory, it shouldn'
 **Q: Can you make this for [minecraft version here] on [mod loader here]?**
 
 A: I could, but probably won't. This is a personal project of mine that I made in my own spare time, so unless I want/need it I'll probably won't update/downgrade it. You're free to do it yourself though, I'll gladly put it up here.
+
+**Q: Will you add Essential to your modpack?**
+
+A: No, I won't. I don't really like that they're close-sourced and add their own analytics. If you like this mod's features, I can recommend these alternatives:
+  - **Proximity voice chat** - Plasmo Voice - already in the modpack
+  - **Cosmetics** - Cosmetica - and it's free, plus already in the modpack
+  - **Server hosting** - [MCSS](https://www.mcserversoft.com/) - I personally use this with [Radmin VPN](https://www.radmin-vpn.com/), it's quite easy and user-friendly, supports lots of stuff, doesn't just mess about with your port forwarding and ISP
+
+**Q: Does this modpack support [Replay mod](https://modrinth.com/mod/replaymod)?**
+
+A: Yes, it should be, I tested this on v1.1.0. If you plan on using it along with Plasmo Voice, be sure to grab [this addon](https://modrinth.com/mod/pv-addon-replaymod/) (if you want your voice in the replay recording).
 
 ### Credits
 
