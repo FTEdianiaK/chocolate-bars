@@ -78,7 +78,7 @@
 
 #### Other Optimizers
 
-*All of these below are a mystery to me, but they seem to work and do they're job well, so I can fully recommend them.*
+*All of these below are a mystery to me, but they seem to work and do their job well, so I can fully recommend them.*
 
 - 💖 **FerriteCore** - reduces memory usage
 - 💖 **FPS Reducer** - reduces GPU and CPU usage when you're idle
