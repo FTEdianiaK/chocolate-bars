@@ -1,4 +1,7 @@
 version:3700
+fullscreenMonitor:"0,0,2560,1440"
+fullscreenMode:2
+preferredFullscreenMode:2
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -23,7 +26,7 @@ darkMojangStudiosBackground:true
 hideLightningFlashes:false
 hideSplashTexts:false
 mouseSensitivity:0.5
-fov:0.5
+fov:0.65
 screenEffectScale:0.25
 fovEffectScale:0.25709184685578257
 darknessEffectScale:0.5035211267605634
@@ -44,7 +47,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/Stay_True_1.20.zip","file/Low_fire_1.21.zip","file/EBE_1.20.x_v1.1.zip","file/xali\u0027s Potions v1.0.0.zip","file/Visible Ores2.12.zip","file/FreshAnimations_v1.9.2.zip","file/FA+Quivers-v1.1.zip","file/FA+Objects-v1.1.zip","file/FA+Emissive-v1.2.zip","file/FA+Details-v1.1.zip","file/TZP_1.20.1_2.7.zip","file/RavenPhantoms_v1.0.0.zip","file/Unique Dark 1.20.4 (free).zip","file/Unique Dark Gui Modded Compat 1.19.2.zip"]
+resourcePacks:["vanilla","fabric","file/Stay_True_1.20.zip","file/Low_fire_1.21.zip","file/EBE_1.20.x_v1.1.zip","file/xali\u0027s Potions v1.0.0.zip","file/FreshAnimations_v1.9.2.zip","file/FA+Quivers-v1.1.zip","file/FA+Objects-v1.1.zip","file/FA+Emissive-v1.2.zip","file/FA+Details-v1.1.zip","file/TZP_1.20.1_2.7.zip","file/RavenPhantoms_v1.0.0.zip","file/Unique Dark 1.20.4 (free).zip","file/Unique Dark Gui Modded Compat 1.19.2.zip"]
 incompatibleResourcePacks:["appleskin","controlling","craterlib","modernfix","searchables","simplerpc","file/Stay_True_1.20.zip","file/Low_fire_1.21.zip","file/EBE_1.20.x_v1.1.zip","file/xali\u0027s Potions v1.0.0.zip","file/TZP_1.20.1_2.7.zip","file/RavenPhantoms_v1.0.0.zip","file/Unique Dark Gui Modded Compat 1.19.2.zip"]
 lastServer:
 lang:en_us
@@ -126,10 +129,12 @@ key_key.wi_zoom.zoom:key.keyboard.v
 key_fpsreducer.key.openGui:key.keyboard.unknown
 key_fpsreducer.key.forceIdle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.plasmovoice.settings:key.keyboard.v
 key_key.simplehudenhanced.toggle_hud:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.end
-key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.home
+key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:0.33278145695364236
 soundCategory_music:0.0
 soundCategory_record:0.7591549295774649

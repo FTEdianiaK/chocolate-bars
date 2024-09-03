@@ -14,7 +14,6 @@ textAlignment = "Left"
 Xcords = 0
 Ycords = 0
 toggleLightLevel = false
-toggleBiome = true
 togglePlayerName = false
 togglePing = true
 toggleTPS = false
@@ -26,6 +25,8 @@ toggleCoordinates = true
 toggleDirection = true
 toggleOffset = true
 toggleNetherCoordinateConversion = false
+toggleChunkCoordinates = false
+toggleSubChunkCoordinates = false
 
 [statusElements.fps]
 toggleFPS = true
@@ -35,15 +36,29 @@ toggleColourFPS = true
 togglePlayerSpeed = true
 togglePlayerVerticalSpeed = false
 
+[statusElements.Biome]
+toggleBiome = true
+toggleBiomeLabel = false
+
 [statusElements.gameTime]
 toggleGameTime = true
 toggleGameTime24Hour = true
+toggleGameDayCounter = false
 
 [statusElements.systemTime]
 toggleSystemTime = true
 textScale = 100
 textBackground = false
 toggleSystemTime24Hour = true
+
+[statusElements.counters]
+toggleEntityCount = false
+toggleParticleCount = false
+
+[statusElements.counters.chunkCount]
+toggleChunkCount = false
+toggleTotal = true
+toggleLoaded = true
 
 [effectsStatus]
 backgroundColor = -2147483648

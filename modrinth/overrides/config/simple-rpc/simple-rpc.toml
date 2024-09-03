@@ -33,6 +33,7 @@
 	#The buttons to display on Discord
 	buttons = []
 
+
 #The Main Menu event
 [main_menu]
 	#Enable/Disable the Main Menu Event
@@ -71,6 +72,7 @@
 	#The buttons to display on Discord
 	buttons = []
 
+
 #The Realms Screen event
 [realms_list]
 	#Enable/Disable the Realms Screen Event
@@ -89,6 +91,7 @@
 	smallImageText = "Second best after Vanilla!"
 	#The buttons to display on Discord
 	buttons = []
+
 
 #The Join Game Event
 [join_game]
@@ -109,6 +112,7 @@
 	#The buttons to display on Discord
 	buttons = []
 
+
 #The Single Player Event
 [single_player]
 	#Enable/Disable the Single Player Event
@@ -127,6 +131,7 @@
 	smallImageText = "Second best after Vanilla!"
 	#The buttons to display on Discord
 	buttons = []
+
 
 #The Multi Player Event
 [multi_player]
@@ -147,6 +152,7 @@
 	#The buttons to display on Discord
 	buttons = []
 
+
 #The Realms Game Event
 [realms]
 	#Enable/Disable the Realms Game Event
@@ -166,6 +172,7 @@
 	#The buttons to display on Discord
 	buttons = []
 
+
 #Fallback event for disabled events
 [generic]
 	#The first line of text under the app name
@@ -182,6 +189,7 @@
 	smallImageText = "Works using %launcher%"
 	#The buttons to display on Discord
 	buttons = []
+
 
 #Custom Config Variables that you can use
 [custom]

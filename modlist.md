@@ -1,0 +1,37 @@
+- [Sodium](https://modrinth.com/mod/AANobbMI) [0.5.8+mc1.20.4] by @jellysquid3
+- [Better Ping Display](https://modrinth.com/mod/MS1ZMyR7) [1.1.1] by Quintinity
+- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1.12.1+kotlin.2.0.20] by FabricMC
+- [Iris](https://modrinth.com/mod/YL57xq9U) [1.7.2+mc1.20.4] by coderbot, IMS212, Justsnoopy30, FoundationGames
+- [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0.12.1] by JellySquid, 2No2Name
+- [Cloth Config v13](https://modrinth.com/mod/9s6osm5g) [13.0.121] by shedaniel
+- [Simple RPC](https://modrinth.com/mod/ObXSoyrn) [3.3.2] by HypherionMC
+- [Cosmetica](https://modrinth.com/mod/s9hF9QGp) [1.2.9] by Eyezah, Valoeghese
+- [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) [0.5.4+mc1.20.4-build.116] by FlashyReese
+- [Simple Hud Enhanced](https://modrinth.com/mod/PE656UHx) [4.7.2] by SoRadGaming
+- [Plasmo Voice](https://modrinth.com/mod/1bZhdhsH) [2.0.10] by Plasmo
+- [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [2.2.2] by Traben
+- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3.5.0+1.20.4-fabric] by isXander
+- [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF) [2.1.1+1.20] by Kir_Antipov
+- [WI Zoom](https://modrinth.com/mod/o7DitHWP) [1.5-MC1.20.4] by Alexander01998
+- [SprintAfterDeath](https://modrinth.com/mod/Ny7u54yS) [1.0.1] by SmajloSlovakian
+- [Fusion](https://modrinth.com/mod/p19vrgc2) [1.1.1] by SuperMartijn642
+- [FPS Reducer](https://modrinth.com/mod/iZ10HXDj) [1.20.4-2.7] by bre2el
+- [No Telemetry](https://modrinth.com/mod/hg77g4Pw) [1.8.0
+] by kb1000
+- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1.7.2+mc1.20.4-build.102] by FlashyReese
+- [Controlling](https://modrinth.com/mod/xv94TkTM) [15.0.5] by Jaredlll08
+- [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [6.2.2] by Traben
+- [Fabric API](https://modrinth.com/mod/P7dR8mSH) [0.97.2+1.20.4] by FabricMC
+- [Sprint Indicator](https://modrinth.com/mod/KKLrfZbI) [1.3.0] by Roundaround
+- [CIT Resewn](https://modrinth.com/mod/otVJckYQ) [1.1.4+1.20.4] by SHsuperCM
+- [CraterLib](https://modrinth.com/mod/Nn8Wasaq) [2.0.3] by HypherionSA, Misha
+- [FerriteCore](https://modrinth.com/mod/uXXizFIs) [6.0.3] by malte0811
+- [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) [1.1.5] by FX - PR0CESS
+- [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [9.2.0] by Prospector, haykam821, TerraformersMC
+- [AmbientEnvironment](https://modrinth.com/mod/DyTvM1dv) [14.0.0.4] by Jaredlll08
+- [Searchables](https://modrinth.com/mod/fuuu3xnx) [1.0.6] by Jaredlll08
+- [ModernFix](https://modrinth.com/mod/nmDcB62a) [5.17.0+mc1.20.4] by embeddedt
+- [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) [1.7.5] by tr7zw
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [2.5.1+mc1.20.3] by squeek502
+- [WaveyCapes](https://modrinth.com/mod/kYuIpRLv) [1.4.9] by tr7zw
+- [Cull Leaves](https://modrinth.com/mod/GNxdLCoP) [3.3.0] by Motschen, TeamMidnightDust
