@@ -3,7 +3,7 @@
 
 ![Minecraft screenshot](https://raw.githubusercontent.com/FTEdianiaK/chocolate-bars/main/APP.webp)
 
-[License](https://github.com/FTEdianiaK/chocolate-bars/blob/main/LICENSE) | [Found a bug?](https://github.com/FTEdianiaK/chocolate-bars/issues)
+[Modlist Version](https://github.com/FTEdianiaK/chocolate-bars/blob/main/modlist.md) | [License](https://github.com/FTEdianiaK/chocolate-bars/blob/main/LICENSE) | [Found a bug?](https://github.com/FTEdianiaK/chocolate-bars/issues)
 
 ## Table of Contents
 
