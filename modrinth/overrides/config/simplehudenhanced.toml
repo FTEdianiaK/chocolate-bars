@@ -1,6 +1,6 @@
 toggleEffectsStatus = true
 colorMode = "Effect"
-toggleMovementStatus = false
+toggleMovementStatus = true
 toggleEquipmentStatus = true
 
 [uiConfig]
@@ -79,7 +79,7 @@ toggleFlyingStatus = true
 toggleSwimmingStatus = true
 
 [paperDoll]
-togglePaperDoll = true
+togglePaperDoll = false
 textScale = 100
 paperDollLocationX = 100
 paperDollLocationY = 0

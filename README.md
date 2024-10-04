@@ -3,7 +3,7 @@
 
 ![Minecraft screenshot](https://raw.githubusercontent.com/FTEdianiaK/chocolate-bars/main/APP.webp)
 
-[Modlist Version](https://github.com/FTEdianiaK/chocolate-bars/blob/main/modlist.md) | [License](https://github.com/FTEdianiaK/chocolate-bars/blob/main/LICENSE) | [Found a bug?](https://github.com/FTEdianiaK/chocolate-bars/issues)
+[Modlist Version](https://github.com/FTEdianiaK/chocolate-bars/blob/main/modlist.md)
 
 ## Table of Contents
 
@@ -45,58 +45,71 @@
 
 ### Modlist
 
-⚠️ **Required** (for one reason or another) | 💖 **Recommended** (to keep on) | 🫵 **Optional** (on/off, doesn't matter) | ✋ **More steps** (optional, with more setup needed)
+⚠️ **Required** (for one reason or another) | 💖 **Recommended** (to keep on) | 🫵 **Optional** (on/off, doesn't matter)
 
 #### Base
 
 - ⚠️ **Fabric API** - used by other mods
 - ⚠️ **Fabric Language Kotlin** - used by other mods
+- 🫵 **Replay Mod** - if you want to record your game, should be working
 
 #### GUI
 
 - 💖 **AppleSkin** - gives you info about food and how much hunger they restore
+- 💖 **BetterF3** - makes the debug screen more useful
 - 🫵 **Better Ping Display** - depends if you're satisfied with the default colored bars
 - 💖 **Controlling (+ Searchables)** - very useful for finding empty and conflicting key-binds
+- 💖 **Ding** - lets you know when the game finished loading
+- 🫵 **Drippy Loading Screen** - we finally have a cool custom menu (*woah!*)
+- 🫵 **FancyMenu** - same as above
 - 💖 **Mod Menu** - similar to the menu in Forge, gives a pretty overview of all the mods
-- 💖 **YetAnotherConfigLib** - same as above, plus allows to modify mods in-game instead of going through the config files
+- 🫵 **Pick Up Notifier** - tells you what items you've picked up or been given by the server
 - 🫵 **Simple Hud Enhanced** - depends if you want the extra info it provides or not
 - 🫵 **Sprint Indicator** - recommend to those who use toggle sprint
 - 🫵 **SprintAfterDeath** - same as above
+- 💖 **YetAnotherConfigLib** - same as above, plus allows to modify mods in-game instead of going through the config files
 
 #### "Optifines"
 
 - 🫵 **AmbientEnvironments** - mixes grass color, I like it, depends if you want it or not
 - 💖 **CIT Resewn** - if you're using the resource packs below, it's a necessity
 - 🫵 **Cubes Without Borders** - true borderless finally comes to Minecraft
-- 💖 **Cull Leaves** - optifine had this, might help with performance while keeping those pretty transparent leaves
 - 💖 **Entity Model Features** - if you're using the resource packs below, it's a necessity
 - 💖 **Entity Texture Features** - same as above
 - 💖 **Fusion** - not really sure if the resource packs below use this, but connected textures are still pretty cool
 - 🫵 **Iris** - you only need this if you plan on using shaders
+- 💖 **More Culling** - optifine had this, might help with performance
 - 💖 **Reese's Sodium Options** - this goes together with Sodium without saying
+- 💖 **Simple Fog Control** - makes the world less foggy, making the horizon more beautiful
 - 💖 **Sodium** - Optifine, but better, actually works and is on Fabric, in other words a must-have
 - 💖 **Sodium Extras** - this goes together with Sodium without saying
-- 💖 **WI Zoom** - another feature from Optifine, which I can't but recommend
+- 💖 **Zoomify** - another feature from Optifine, which I can't but recommend
 
 #### Other Optimizers
 
 *All of these below are a mystery to me, but they seem to work and do their job well, so I can fully recommend them.*
 
+- 💖 **Concurrent Chunk Management Engine** - one of the wordgen-enhancing mods
+- 🫵 **FastQuit** - sometimes, my game gets stuck saving a world, effectively freezing it, this allows it to finish in background while you work on something else
+- 💖 **Faster Random** - one of the wordgen-enhancing mods
 - 💖 **FerriteCore** - reduces memory usage
 - 💖 **FPS Reducer** - reduces GPU and CPU usage when you're idle
+- 💖 **ImmediatelyFast** - enhances rendering
+- 💖 **Let Me Despawn** - singleplayer mostly, allows mobs to despawn even if they're holding items, etc.
 - 💖 **Lithium** - makes a lot of performance improvements
 - 💖 **Memory Leak Fix** - does what it say on the tin
 - 💖 **ModernFix** - another mix of performance improvements
+- 💖 **Noisium** - one of the wordgen-enhancing mods
 - 💖 **No Telemetry** - disables the Snooper
 
 #### Cosmetics
 
 - 🫵 **Cosmetica** - free alternative to Lunar and such cosmetics *(fox ears and rainbow capes go brrr~)*
+- 🫵 **Chat Heads** - if you wanna see who's the one talking
+- 🫵 **Elytra Physics** - makes the elytra behave more like a cape
 - 🫵 **Not Enough Animations** - wow, that is really cool
 - 🫵 **Simple RPC (+ CraterLib)** - if you wanna support the project
 - 🫵 **WaveyCapes** - capes go woosh~ in the wind!
-#### Social
-- ✋ **Plasmo Voice** - (SERVER-SIDE REQUIRED) - proximity voice chat, does nothing if it isn't also installed on the server
 
 ### Resource Pack Order
 
@@ -104,30 +117,28 @@
 
 #### Dark GUI
 
-1. [Unique Dark Gui - Modded Compat](https://www.curseforge.com/minecraft/texture-packs/unique-dark-gui-modded-compat)
-2. Unique Dark
+- Unique Dark
 
 #### Mobs
 
-3. Raven Phantoms
-4. [Tissou's Zombie Pack](https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-20)
-5. FA+ Details
-6. FA+ Emissive
-7. FA+ Objects
-8. FA+ Quivers
-9. Fresh Animations
+- Raven Phantoms
+- FA+ Details
+- FA+ Emissive
+- FA+ Objects
+- FA+ Quivers
+- Fresh Animations
 
 #### Items
 
-10. xali's potions
-11. Even Better Enchants
+- xali's potions
+- Even Better Enchants
 
 #### Base
 
-12. Low fire
-13. [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
-14. Fabric Mods
-15. Default
+- Low fire
+- [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
+- Fabric Mods
+- Default
 
 ### Shader Pack
 
@@ -149,10 +160,6 @@ A: No, I won't. I don't really like that they're close-sourced and add their own
   - **Proximity voice chat** - Plasmo Voice - already in the modpack
   - **Cosmetics** - Cosmetica - and it's free, plus already in the modpack
   - **Server hosting** - [MCSS](https://www.mcserversoft.com/) - I personally use this with [Radmin VPN](https://www.radmin-vpn.com/), it's quite easy and user-friendly, supports lots of stuff, doesn't just mess about with your port forwarding and ISP
-
-**Q: Does this modpack support [Replay mod](https://modrinth.com/mod/replaymod)?**
-
-A: Yes, it should be, I tested this on v1.1.0. If you plan on using it along with Plasmo Voice, be sure to grab [this addon](https://modrinth.com/mod/pv-addon-replaymod/) (if you want your voice in the replay recording).
 
 ### Credits
 

@@ -1,7 +1,5 @@
-
-#General Config Section. See https://readme.firstdarkdev.xyz/simple-rpc/introduction/
 [general]
-	#The Application ID of the Discord App to use
+	#The Application ID of the Discord App to use. Replace this with your client id from the discord dashboard to change the name of the app
 	applicationID = 1218267339796119632
 	#Enable/Disable the mod
 	enabled = true
@@ -14,46 +12,48 @@
 	#Internal Version Number. NO TOUCHY!
 	version = 18
 
-#The Game Loading event
 [init]
 	#Enable/Disable the Game Loading Event
 	enabled = true
 	#The first line of text under the app name
 	description = "Minecraft %mcver%,"
 	#The second line of text under the app name
-	state = "but in Chocolate flavor"
-	#The Asset ID of the image to display as the large image
+	state = "but in Chocolate (Fabric) flavor"
+	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["flame"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "A modpack by F_TEK"
-	#The Asset ID of the image to display as the small image
+	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "Second best after Vanilla!"
-	#The buttons to display on Discord
-	buttons = []
+	#The buttons to display on Discord 
 
+	[[init.buttons]]
+		label = "Get it here!"
+		url = "https://modrinth.com/modpack/chocolate-bars"
 
-#The Main Menu event
 [main_menu]
 	#Enable/Disable the Main Menu Event
 	enabled = true
 	#The first line of text under the app name
 	description = "%player% is"
-	#The seconds line of text under the app name
+	#The second line of text under the app name
 	state = "making the menu"
-	#The Asset ID of the image to display as the large image
+	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["prism"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Perusing through %launcher%"
-	#The Asset ID of the image to display as the small image
+	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "Second best after Vanilla!"
-	#The buttons to display on Discord
-	buttons = []
+	#The buttons to display on Discord 
 
-#The Server List event
+	[[main_menu.buttons]]
+		label = "Get it here!"
+		url = "https://modrinth.com/modpack/chocolate-bars"
+
 [server_list]
 	#Enable/Disable the Server List Event
 	enabled = true
@@ -61,19 +61,20 @@
 	description = "%player% is"
 	#The second line of text under the app name
 	state = "baking a new friend"
-	#The Asset ID of the image to display as the large image
+	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["server"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = ""
-	#The Asset ID of the image to display as the small image
+	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "Second best after Vanilla!"
-	#The buttons to display on Discord
-	buttons = []
+	#The buttons to display on Discord 
 
+	[[server_list.buttons]]
+		label = "Get it here!"
+		url = "https://modrinth.com/modpack/chocolate-bars"
 
-#The Realms Screen event
 [realms_list]
 	#Enable/Disable the Realms Screen Event
 	enabled = true
@@ -81,19 +82,20 @@
 	description = "%player% is"
 	#The second line of text under the app name
 	state = "searching the Realm-comb"
-	#The Asset ID of the image to display as the large image
+	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["realms"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = ""
-	#The Asset ID of the image to display as the small image
+	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "Second best after Vanilla!"
-	#The buttons to display on Discord
-	buttons = []
+	#The buttons to display on Discord 
 
+	[[realms_list.buttons]]
+		label = "Get it here!"
+		url = "https://modrinth.com/modpack/chocolate-bars"
 
-#The Join Game Event
 [join_game]
 	#Enable/Disable the Join Game Event
 	enabled = true
@@ -101,19 +103,20 @@
 	description = "%player% is"
 	#The second line of text under the app name
 	state = "shaking things up"
-	#The Asset ID of the image to display as the large image
+	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["loading"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = ""
-	#The Asset ID of the image to display as the small image
+	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "Second best after Vanilla!"
-	#The buttons to display on Discord
-	buttons = []
+	#The buttons to display on Discord 
 
+	[[join_game.buttons]]
+		label = "Get it here!"
+		url = "https://modrinth.com/modpack/chocolate-bars"
 
-#The Single Player Event
 [single_player]
 	#Enable/Disable the Single Player Event
 	enabled = true
@@ -121,19 +124,20 @@
 	description = "%player% is alone"
 	#The second line of text under the app name
 	state = "in %biome%"
-	#The Asset ID of the image to display as the large image
+	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["world"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Where in the %savename% is %player%?"
-	#The Asset ID of the image to display as the small image
+	largeImageText = "%player% is driving around %savename%"
+	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "Second best after Vanilla!"
-	#The buttons to display on Discord
-	buttons = []
+	#The buttons to display on Discord 
 
+	[[single_player.buttons]]
+		label = "Get it here!"
+		url = "https://modrinth.com/modpack/chocolate-bars"
 
-#The Multi Player Event
 [multi_player]
 	#Enable/Disable the Multi Player Event
 	enabled = true
@@ -141,19 +145,20 @@
 	description = "%player% is with others"
 	#The second line of text under the app name
 	state = "in %biome%"
-	#The Asset ID of the image to display as the large image
+	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["world"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Where in the %servername% is %player%?"
-	#The Asset ID of the image to display as the small image
+	largeImageText = "%player% is serving all over %servername%"
+	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "Second best after Vanilla!"
-	#The buttons to display on Discord
-	buttons = []
+	#The buttons to display on Discord 
 
+	[[multi_player.buttons]]
+		label = "Get it here!"
+		url = "https://modrinth.com/modpack/chocolate-bars"
 
-#The Realms Game Event
 [realms]
 	#Enable/Disable the Realms Game Event
 	enabled = true
@@ -161,37 +166,39 @@
 	description = "%player% is with others"
 	#The second line of text under the app name
 	state = "in %biome%"
-	#The Asset ID of the image to display as the large image
+	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["world"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Where in the %realmname% is %player%?"
-	#The Asset ID of the image to display as the small image
+	largeImageText = "%player% is roaming across %realmname%"
+	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "Second best after Vanilla!"
-	#The buttons to display on Discord
-	buttons = []
+	#The buttons to display on Discord 
 
+	[[realms.buttons]]
+		label = "Get it here!"
+		url = "https://modrinth.com/modpack/chocolate-bars"
 
-#Fallback event for disabled events
 [generic]
 	#The first line of text under the app name
 	description = "Minecraft %mcver%,"
 	#The second line of text under the app name
-	state = "but in Chocolate flavor"
-	#The Asset ID of the image to display as the large image
+	state = "but in Chocolate (Fabric) flavor"
+	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["mclogo"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Second best after Vanilla!"
-	#The Asset ID of the image to display as the small image
+	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["prism"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "Works using %launcher%"
-	#The buttons to display on Discord
-	buttons = []
+	#The buttons to display on Discord 
 
+	[[generic.buttons]]
+		label = "Get it here!"
+		url = "https://modrinth.com/modpack/chocolate-bars"
 
-#Custom Config Variables that you can use
 [custom]
 	#Must these variables be parsed along with other variables
 	enabled = true
@@ -230,4 +237,5 @@
 		smallImageKey = []
 		smallImageText = ""
 		buttons = []
+
 

@@ -47,8 +47,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/Stay_True_1.20.zip","file/Low_fire_1.21.zip","file/EBE_1.20.x_v1.1.zip","file/xali\u0027s Potions v1.0.0.zip","file/FreshAnimations_v1.9.2.zip","file/FA+Quivers-v1.1.zip","file/FA+Objects-v1.1.zip","file/FA+Emissive-v1.2.zip","file/FA+Details-v1.1.zip","file/TZP_1.20.1_2.7.zip","file/RavenPhantoms_v1.0.0.zip","file/Unique Dark 1.20.4 (free).zip","file/Unique Dark Gui Modded Compat 1.19.2.zip"]
-incompatibleResourcePacks:["appleskin","controlling","craterlib","modernfix","searchables","simplerpc","file/Stay_True_1.20.zip","file/Low_fire_1.21.zip","file/EBE_1.20.x_v1.1.zip","file/xali\u0027s Potions v1.0.0.zip","file/TZP_1.20.1_2.7.zip","file/RavenPhantoms_v1.0.0.zip","file/Unique Dark Gui Modded Compat 1.19.2.zip"]
+resourcePacks:["vanilla","fabric","file/Stay_True_1.20.4.zip","file/Low_fire_1.20.zip","file/EBE_1.20.x_v1.1.zip","file/xali\u0027s Potions v1.0.0.zip","file/FreshAnimations_v1.9.2.zip","file/FA+Quivers-v1.1.zip","file/FA+Objects-v1.1.zip","file/FA+Emissive-v1.2.zip","file/FA+Details-v1.1.zip","file/RavenPhantoms_v1.0.1.zip","file/Unique Dark 1.20.4 (free).zip"]
+incompatibleResourcePacks:["appleskin","controlling","craterlib","drippyloadingscreen","fancymenu","konkrete","modernfix","replaymod","searchables","simplerpc","yet_another_config_lib_v3","file/Low_fire_1.20.zip","file/EBE_1.20.x_v1.1.zip","file/xali\u0027s Potions v1.0.0.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -123,14 +123,32 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.cosmetica.customise:key.keyboard.right.shift
-key_key.cosmetica.snipe:key.mouse.middle
-key_key.wi_zoom.zoom:key.keyboard.v
+key_key.cosmetica.customise:key.keyboard.unknown
+key_key.cosmetica.snipe:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.unknown
 key_fpsreducer.key.forceIdle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_key.plasmovoice.settings:key.keyboard.v
+key_key.replaymod.playeroverview:key.keyboard.b
+key_key.replaymod.lighting:key.keyboard.z
+key_key.replaymod.quickmode:key.keyboard.q
+key_key.replaymod.settings:key.keyboard.unknown
+key_key.replaymod.marker:key.keyboard.m
+key_key.replaymod.thumbnail:key.keyboard.n
+key_key.replaymod.playpause:key.keyboard.p
+key_key.replaymod.rollclockwise:key.keyboard.l
+key_key.replaymod.rollcounterclockwise:key.keyboard.j
+key_key.replaymod.resettilt:key.keyboard.k
+key_key.replaymod.pathpreview:key.keyboard.h
+key_key.replaymod.keyframerepository:key.keyboard.x
+key_key.replaymod.clearkeyframes:key.keyboard.c
+key_key.replaymod.synctimeline:key.keyboard.v
+key_key.replaymod.positionkeyframe:key.keyboard.i
+key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
+key_key.replaymod.timekeyframe:key.keyboard.o
+key_key.replaymod.bothkeyframes:key.keyboard.unknown
 key_key.simplehudenhanced.toggle_hud:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.v
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.end
 key_iris.keybind.shaderPackSelection:key.keyboard.home
