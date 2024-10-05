@@ -57,7 +57,7 @@
 - 💖 **AppleSkin** - gives you info about food and how much hunger they restore
 - 💖 **BetterF3** - makes the debug screen more useful
 - 🫵 **Better Ping Display** - depends if you're satisfied with the default colored bars
-- 💖 **Controlling (+ Searchables)** - very useful for finding empty and conflicting key-binds
+- 💖 **Controlling** - very useful for finding empty and conflicting key-binds
 - 💖 **Ding** - lets you know when the game finished loading
 - 🫵 **Drippy Loading Screen** - we finally have a cool custom menu (*woah!*)
 - 🫵 **FancyMenu** - same as above
@@ -107,7 +107,7 @@
 - 🫵 **Chat Heads** - if you wanna see who's the one talking
 - 🫵 **Elytra Physics** - makes the elytra behave more like a cape
 - 🫵 **Not Enough Animations** - wow, that is really cool
-- 🫵 **Simple RPC (+ CraterLib)** - if you wanna support the project
+- 🫵 **Simple RPC** - if you wanna support the project
 - 🫵 **WaveyCapes** - capes go woosh~ in the wind!
 
 ### Resource Pack Order
