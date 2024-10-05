@@ -50,7 +50,6 @@
 
 - ⚠️ **Fabric API** - used by other mods
 - ⚠️ **Fabric Language Kotlin** - used by other mods
-- 🫵 **Replay Mod** - if you want to record your game, should be working
 
 #### GUI
 
@@ -161,5 +160,7 @@ A: No, I won't. I don't really like that they're close-sourced and add their own
   - **Server hosting** - [MCSS](https://www.mcserversoft.com/) - I personally use this with [Radmin VPN](https://www.radmin-vpn.com/), it's quite easy and user-friendly, supports lots of stuff, doesn't just mess about with your port forwarding and ISP
 
 ### Credits
+
+[Time To Talk Ft. Roses - Bittersweet](http://youtu.be/RdAPevFwfmE) [(provided by NoCopyrightSounds)](http://NCS.io/Bittersweet)
 
 [Chocolate bar icon - by rihlsul - from game-icons.net - CC BY 3.0](https://game-icons.net/1x1/rihlsul/chocolate-bar.html)

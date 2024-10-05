@@ -40,7 +40,6 @@
 - [Pick Up Notifier](https://modrinth.com/mod/ZX66K16c) [20.4.2] by Fuzs
 - [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [20.4.52] by Fuzs
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1.7.2+mc1.20.4-build.102] by FlashyReese
-- [Replay Mod](https://modrinth.com/mod/Nv2fQJo5) [1.20.4-2.6.19] by CrushedPixel, johni0702
 - [Searchables](https://modrinth.com/mod/fuuu3xnx) [1.0.6] by Jaredlll08
 - [Simple Fog Control](https://modrinth.com/mod/Glp1bwYc) [1.4.0] by Draradech
 - [Simple Hud Enhanced](https://modrinth.com/mod/PE656UHx) [4.7.2] by SoRadGaming
