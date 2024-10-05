@@ -57,7 +57,7 @@
 - :sparkling_heart: **[BetterF3](https://modrinth.com/mod/8shC1gFX)** - makes the debug screen more useful
 - :index_pointing_at_the_viewer: **[Better Ping Display](https://modrinth.com/mod/MS1ZMyR7)** - depends if you're satisfied with the default colored bars
 - :sparkling_heart: **[Controlling](https://modrinth.com/mod/xv94TkTM)** - very useful for finding empty and conflicting key-binds
-- :sparkling_heart: **Ding** - lets you know when the game finished loading
+- :sparkling_heart: **[Ding](https://modrinth.com/mod/ding)** - lets you know when the game finished loading
 - :index_pointing_at_the_viewer: **[Drippy Loading Screen](https://modrinth.com/mod/v3CYg2V9)** - we finally have a cool custom menu (*woah!*)
 - :index_pointing_at_the_viewer: **[FancyMenu](https://modrinth.com/mod/Wq5SjeWM)** - same as above
 - :sparkling_heart: **[Mod Menu](https://modrinth.com/mod/mOgUt4GM)** - similar to the menu in Forge, gives a pretty overview of all the mods
@@ -80,7 +80,7 @@
 - :sparkling_heart: **[Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy)** - this goes together with Sodium without saying
 - :sparkling_heart: **[Simple Fog Control](https://modrinth.com/mod/Glp1bwYc)** - makes the world less foggy, making the horizon more beautiful
 - :sparkling_heart: **[Sodium](https://modrinth.com/mod/AANobbMI)** - Optifine, but better, actually works and is on Fabric, in other words a must-have
-- :sparkling_heart: **Sodium Extras** - this goes together with Sodium without saying
+- :sparkling_heart: **[Sodium Extra](https://modrinth.com/mod/sodium-extra)** - this goes together with Sodium without saying
 - :sparkling_heart: **[Zoomify](https://modrinth.com/mod/w7ThoJFB)** - another feature from Optifine, which I can't but recommend
 
 #### Other Optimizers
