@@ -18,7 +18,6 @@
   - ["Optifines"](#optifines)
   - [Other Optimizers](#other-optimizers)
   - [Cosmetics](#cosmetics)
-  - [Social](#social)
 - [Resource Pack Order](#resource-pack-order)
   - [Dark GUI](#dark-gui)
   - [Mobs](#mobs)
