@@ -112,30 +112,28 @@
 
 ### Resource Pack Order
 
-*Pay attention to the ones below marked with :boom: as these resource pack couldn't be embedded into the file on the account of them not being from Modrinth.*
-
 #### Dark GUI
 
-- Unique Dark
+- [Unique Dark](https://modrinth.com/resourcepack/unique-dark)
 
 #### Mobs
 
-- Raven Phantoms
-- FA+ Details
-- FA+ Emissive
-- FA+ Objects
-- FA+ Quivers
-- Fresh Animations
+- [Raven Phantoms](https://modrinth.com/resourcepack/raven-phantoms)
+- [FA+ Details](https://modrinth.com/resourcepack/fresh-animations-extensions)
+- [FA+ Emissive](https://modrinth.com/resourcepack/fresh-animations-extensions)
+- [FA+ Objects](https://modrinth.com/resourcepack/fresh-animations-extensions)
+- [FA+ Quivers](https://modrinth.com/resourcepack/fresh-animations-extensions)
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
 
 #### Items
 
-- xali's potions
-- Even Better Enchants
+- [xali's Potions](https://modrinth.com/resourcepack/xalis-potion)
+- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
 
 #### Base
 
-- Low fire
-- :boom: [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
+- [Low fire](https://modrinth.com/resourcepack/low-fire-txf)
+- [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
 - Fabric Mods
 - Default
 
