@@ -3,7 +3,7 @@
 
 ![Minecraft screenshot](https://raw.githubusercontent.com/FTEdianiaK/chocolate-bars/main/APP.webp)
 
-[Modlist Version](https://github.com/FTEdianiaK/chocolate-bars/blob/main/modlist.md)
+[Modlist](https://github.com/FTEdianiaK/chocolate-bars/blob/main/modlist.md)
 
 ## Table of Contents
 
@@ -44,74 +44,75 @@
 
 ### Modlist
 
-⚠️ **Required** (for one reason or another) | 💖 **Recommended** (to keep on) | 🫵 **Optional** (on/off, doesn't matter)
+:warning: **Required** (for one reason or another) | :sparkling_heart: **Recommended** (to keep on) | :index_pointing_at_the_viewer: **Optional** (on/off, doesn't matter)
 
 #### Base
 
-- ⚠️ **Fabric API** - used by other mods
-- ⚠️ **Fabric Language Kotlin** - used by other mods
+- :warning: **[Fabric API](https://modrinth.com/mod/P7dR8mSH)** - used by other mods
+- :warning: **[Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL)** - used by other mods
 
 #### GUI
 
-- 💖 **AppleSkin** - gives you info about food and how much hunger they restore
-- 💖 **BetterF3** - makes the debug screen more useful
-- 🫵 **Better Ping Display** - depends if you're satisfied with the default colored bars
-- 💖 **Controlling** - very useful for finding empty and conflicting key-binds
-- 💖 **Ding** - lets you know when the game finished loading
-- 🫵 **Drippy Loading Screen** - we finally have a cool custom menu (*woah!*)
-- 🫵 **FancyMenu** - same as above
-- 💖 **Mod Menu** - similar to the menu in Forge, gives a pretty overview of all the mods
-- 🫵 **Pick Up Notifier** - tells you what items you've picked up or been given by the server
-- 🫵 **Simple Hud Enhanced** - depends if you want the extra info it provides or not
-- 🫵 **Sprint Indicator** - recommend to those who use toggle sprint
-- 🫵 **SprintAfterDeath** - same as above
-- 💖 **YetAnotherConfigLib** - same as above, plus allows to modify mods in-game instead of going through the config files
+- :sparkling_heart: **[AppleSkin](https://modrinth.com/mod/EsAfCjCV)** - gives you info about food and how much hunger they restore
+- :sparkling_heart: **[BetterF3](https://modrinth.com/mod/8shC1gFX)** - makes the debug screen more useful
+- :index_pointing_at_the_viewer: **[Better Ping Display](https://modrinth.com/mod/MS1ZMyR7)** - depends if you're satisfied with the default colored bars
+- :sparkling_heart: **[Controlling](https://modrinth.com/mod/xv94TkTM)** - very useful for finding empty and conflicting key-binds
+- :sparkling_heart: **Ding** - lets you know when the game finished loading
+- :index_pointing_at_the_viewer: **[Drippy Loading Screen](https://modrinth.com/mod/v3CYg2V9)** - we finally have a cool custom menu (*woah!*)
+- :index_pointing_at_the_viewer: **[FancyMenu](https://modrinth.com/mod/Wq5SjeWM)** - same as above
+- :sparkling_heart: **[Mod Menu](https://modrinth.com/mod/mOgUt4GM)** - similar to the menu in Forge, gives a pretty overview of all the mods
+- :index_pointing_at_the_viewer: **[Pick Up Notifier](https://modrinth.com/mod/ZX66K16c)** - tells you what items you've picked up or been given by the server
+- :index_pointing_at_the_viewer: **[Simple Hud Enhanced](https://modrinth.com/mod/PE656UHx)** - depends if you want the extra info it provides or not
+- :index_pointing_at_the_viewer: **[Sprint Indicator](https://modrinth.com/mod/KKLrfZbI)** - recommend to those who use toggle sprint
+- :index_pointing_at_the_viewer: **[SprintAfterDeath](https://modrinth.com/mod/Ny7u54yS)** - same as above
+- :sparkling_heart: **[YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR)** - same as above, plus allows to modify mods in-game instead of going through the config files
 
 #### "Optifines"
 
-- 🫵 **AmbientEnvironments** - mixes grass color, I like it, depends if you want it or not
-- 💖 **CIT Resewn** - if you're using the resource packs below, it's a necessity
-- 🫵 **Cubes Without Borders** - true borderless finally comes to Minecraft
-- 💖 **Entity Model Features** - if you're using the resource packs below, it's a necessity
-- 💖 **Entity Texture Features** - same as above
-- 💖 **Fusion** - not really sure if the resource packs below use this, but connected textures are still pretty cool
-- 🫵 **Iris** - you only need this if you plan on using shaders
-- 💖 **More Culling** - optifine had this, might help with performance
-- 💖 **Reese's Sodium Options** - this goes together with Sodium without saying
-- 💖 **Simple Fog Control** - makes the world less foggy, making the horizon more beautiful
-- 💖 **Sodium** - Optifine, but better, actually works and is on Fabric, in other words a must-have
-- 💖 **Sodium Extras** - this goes together with Sodium without saying
-- 💖 **Zoomify** - another feature from Optifine, which I can't but recommend
+- :index_pointing_at_the_viewer: **[AmbientEnvironment](https://modrinth.com/mod/DyTvM1dv)** - mixes grass color, I like it, depends if you want it or not
+- :sparkling_heart: **[CIT Resewn](https://modrinth.com/mod/otVJckYQ)** - if you're using the resource packs below, it's a necessity
+- :index_pointing_at_the_viewer: **[Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF)** - true borderless finally comes to Minecraft
+- :sparkling_heart: **[Entity Model Features](https://modrinth.com/mod/4I1XuqiY)** - if you're using the resource packs below, it's a necessity
+- :sparkling_heart: **[Entity Texture Features](https://modrinth.com/mod/BVzZfTc1)** - same as above
+- :sparkling_heart: **[Fusion](https://modrinth.com/mod/p19vrgc2)** - not really sure if the resource packs below use this, but connected textures are still pretty cool
+- :index_pointing_at_the_viewer: **[Iris](https://modrinth.com/mod/YL57xq9U)** - you only need this if you plan on using shaders
+- :sparkling_heart: **[More Culling](https://modrinth.com/mod/51shyZVL)** - optifine had this, might help with performance
+- :sparkling_heart: **[Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy)** - this goes together with Sodium without saying
+- :sparkling_heart: **[Simple Fog Control](https://modrinth.com/mod/Glp1bwYc)** - makes the world less foggy, making the horizon more beautiful
+- :sparkling_heart: **[Sodium](https://modrinth.com/mod/AANobbMI)** - Optifine, but better, actually works and is on Fabric, in other words a must-have
+- :sparkling_heart: **Sodium Extras** - this goes together with Sodium without saying
+- :sparkling_heart: **[Zoomify](https://modrinth.com/mod/w7ThoJFB)** - another feature from Optifine, which I can't but recommend
 
 #### Other Optimizers
 
 *All of these below are a mystery to me, but they seem to work and do their job well, so I can fully recommend them.*
 
-- 💖 **Concurrent Chunk Management Engine** - one of the wordgen-enhancing mods
-- 🫵 **FastQuit** - sometimes, my game gets stuck saving a world, effectively freezing it, this allows it to finish in background while you work on something else
-- 💖 **Faster Random** - one of the wordgen-enhancing mods
-- 💖 **FerriteCore** - reduces memory usage
-- 💖 **FPS Reducer** - reduces GPU and CPU usage when you're idle
-- 💖 **ImmediatelyFast** - enhances rendering
-- 💖 **Let Me Despawn** - singleplayer mostly, allows mobs to despawn even if they're holding items, etc.
-- 💖 **Lithium** - makes a lot of performance improvements
-- 💖 **Memory Leak Fix** - does what it say on the tin
-- 💖 **ModernFix** - another mix of performance improvements
-- 💖 **Noisium** - one of the wordgen-enhancing mods
-- 💖 **No Telemetry** - disables the Snooper
+- :sparkling_heart: **[Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q)** - one of the wordgen-enhancing mods
+- :index_pointing_at_the_viewer: **[FastQuit](https://modrinth.com/mod/x1hIzbuY)** - sometimes, my game gets stuck saving a world, effectively freezing it, this allows it to finish in background while you work on something else
+- :sparkling_heart: **[Faster Random](https://modrinth.com/mod/RfFxanNh)** - one of the wordgen-enhancing mods
+- :sparkling_heart: **[FerriteCore](https://modrinth.com/mod/uXXizFIs)** - reduces memory usage
+- :sparkling_heart: **[FPS Reducer](https://modrinth.com/mod/iZ10HXDj)** - reduces GPU and CPU usage when you're idle
+- :sparkling_heart: **[ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci)** - enhances rendering
+- :sparkling_heart: **[Let Me Despawn](https://modrinth.com/mod/vE2FN5qn)** - singleplayer mostly, allows mobs to despawn even if they're holding items, etc.
+- :sparkling_heart: **[Lithium](https://modrinth.com/mod/gvQqBUqZ)** - makes a lot of performance improvements
+- :sparkling_heart: **[Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD)** - does what it say on the tin
+- :sparkling_heart: **[ModernFix](https://modrinth.com/mod/nmDcB62a)** - another mix of performance improvements
+- :sparkling_heart: **[Noisium](https://modrinth.com/mod/KuNKN7d2)** - one of the wordgen-enhancing mods
+- :sparkling_heart: **[No Telemetry](https://modrinth.com/mod/hg77g4Pw)** - disables the Snooper
 
 #### Cosmetics
 
-- 🫵 **Cosmetica** - free alternative to Lunar and such cosmetics *(fox ears and rainbow capes go brrr~)*
-- 🫵 **Chat Heads** - if you wanna see who's the one talking
-- 🫵 **Elytra Physics** - makes the elytra behave more like a cape
-- 🫵 **Not Enough Animations** - wow, that is really cool
-- 🫵 **Simple RPC** - if you wanna support the project
-- 🫵 **WaveyCapes** - capes go woosh~ in the wind!
+- :index_pointing_at_the_viewer: **[Cosmetica](https://modrinth.com/mod/s9hF9QGp)** - free alternative to Lunar and such cosmetics *(fox ears and rainbow capes go brrr~)*
+- :index_pointing_at_the_viewer: **[Chat Heads](https://modrinth.com/mod/Wb5oqrBJ)** - if you wanna see who's the one talking
+- :index_pointing_at_the_viewer: **[Elytra Physics](https://modrinth.com/mod/jfvCMH0K)** - makes the elytra behave more like a cape
+- :index_pointing_at_the_viewer: **[NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C)** - wow, that is really cool
+- :index_pointing_at_the_viewer: **[Simple RPC](https://modrinth.com/mod/ObXSoyrn)** - if you wanna support the project
+- :index_pointing_at_the_viewer: **[WaveyCapes](https://modrinth.com/mod/kYuIpRLv)** - capes go woosh~ in the wind!
+
 
 ### Resource Pack Order
 
-*Pay attention to the links below as these resource pack couldn't be embedded into the file on the account of them not being from Modrinth.*
+*Pay attention to the ones below marked with :boom: as these resource pack couldn't be embedded into the file on the account of them not being from Modrinth.*
 
 #### Dark GUI
 
@@ -134,7 +135,7 @@
 #### Base
 
 - Low fire
-- [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
+- :boom: [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
 - Fabric Mods
 - Default
 
