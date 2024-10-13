@@ -47,8 +47,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/Stay_True_1.20.4.zip","file/Low_fire_1.20.zip","file/EBE_1.20.x_v1.1.zip","file/xali\u0027s Potions v1.0.0.zip","file/FreshAnimations_v1.9.2.zip","file/FA+Quivers-v1.1.zip","file/FA+Objects-v1.1.zip","file/FA+Emissive-v1.2.zip","file/FA+Details-v1.1.zip","file/RavenPhantoms_v1.0.1.zip","file/Unique Dark 1.20.4 (free).zip"]
-incompatibleResourcePacks:["appleskin","controlling","craterlib","drippyloadingscreen","fancymenu","konkrete","modernfix","replaymod","searchables","simplerpc","yet_another_config_lib_v3","file/Low_fire_1.20.zip","file/EBE_1.20.x_v1.1.zip","file/xali\u0027s Potions v1.0.0.zip"]
+resourcePacks:["vanilla","fabric","file/Stay_True_1.20.4.zip","file/Low_fire_1.20.zip","file/EBE_1.20.x_v1.1.zip","file/xali\u0027s Potions v1.0.0.zip","file/FreshAnimations_v1.9.2.zip","file/FA+Quivers-v1.1.zip","file/FA+Objects-v1.1.zip","file/FA+Emissive-v1.2.zip","file/FA+Details-v1.1.zip","file/Expressive Fresh Moves v3.0.1.zip","file/RavenPhantoms_v1.0.1.zip","file/Unique Dark 1.20.4 (free).zip"]
+incompatibleResourcePacks:["appleskin","controlling","craterlib","drippyloadingscreen","fancymenu","konkrete","modernfix","searchables","simplerpc","yet_another_config_lib_v3","file/Low_fire_1.20.zip","file/EBE_1.20.x_v1.1.zip","file/xali\u0027s Potions v1.0.0.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -151,4 +151,4 @@ modelPart_left_sleeve:true
 modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
-modelPart_hat:false
+modelPart_hat:true

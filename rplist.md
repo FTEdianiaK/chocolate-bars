@@ -1,0 +1,14 @@
+- [Unique Dark](https://modrinth.com/resourcepack/unique-dark)
+- [Raven Phantoms](https://modrinth.com/resourcepack/raven-phantoms)
+- [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player)
+- [FA+ Details](https://modrinth.com/resourcepack/fresh-animations-extensions)
+- [FA+ Emissive](https://modrinth.com/resourcepack/fresh-animations-extensions)
+- [FA+ Objects](https://modrinth.com/resourcepack/fresh-animations-extensions)
+- [FA+ Quivers](https://modrinth.com/resourcepack/fresh-animations-extensions)
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+- [xali's Potions](https://modrinth.com/resourcepack/xalis-potion)
+- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
+- [Low fire](https://modrinth.com/resourcepack/low-fire-txf)
+- [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
+- Fabric Mods
+- Default

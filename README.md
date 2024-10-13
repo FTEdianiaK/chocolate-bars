@@ -3,7 +3,7 @@
 
 ![Minecraft screenshot](https://raw.githubusercontent.com/FTEdianiaK/chocolate-bars/main/APP.webp)
 
-[Modlist](https://github.com/FTEdianiaK/chocolate-bars/blob/main/modlist.md)
+[Modlist](https://github.com/FTEdianiaK/chocolate-bars/blob/main/modlist.md) [Resource Packs](https://github.com/FTEdianiaK/chocolate-bars/blob/main/rplist.md)
 
 ## Table of Contents
 
@@ -18,12 +18,6 @@
   - ["Optifines"](#optifines)
   - [Other Optimizers](#other-optimizers)
   - [Cosmetics](#cosmetics)
-- [Resource Pack Order](#resource-pack-order)
-  - [Dark GUI](#dark-gui)
-  - [Mobs](#mobs)
-  - [Blocks](#blocks)
-  - [Items](#items)
-  - [Base](#base-1)
 - [Shader Pack](#shader-pack)
 - [FAQ](#faq)
 - [Credits](#credits)
@@ -109,34 +103,6 @@
 - :index_pointing_at_the_viewer: **[Simple RPC](https://modrinth.com/mod/ObXSoyrn)** - if you wanna support the project
 - :index_pointing_at_the_viewer: **[WaveyCapes](https://modrinth.com/mod/kYuIpRLv)** - capes go woosh~ in the wind!
 
-
-### Resource Pack Order
-
-#### Dark GUI
-
-- [Unique Dark](https://modrinth.com/resourcepack/unique-dark)
-
-#### Mobs
-
-- [Raven Phantoms](https://modrinth.com/resourcepack/raven-phantoms)
-- [FA+ Details](https://modrinth.com/resourcepack/fresh-animations-extensions)
-- [FA+ Emissive](https://modrinth.com/resourcepack/fresh-animations-extensions)
-- [FA+ Objects](https://modrinth.com/resourcepack/fresh-animations-extensions)
-- [FA+ Quivers](https://modrinth.com/resourcepack/fresh-animations-extensions)
-- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
-
-#### Items
-
-- [xali's Potions](https://modrinth.com/resourcepack/xalis-potion)
-- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
-
-#### Base
-
-- [Low fire](https://modrinth.com/resourcepack/low-fire-txf)
-- [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
-- Fabric Mods
-- Default
-
 ### Shader Pack
 
 - Recommended - [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)
@@ -154,7 +120,7 @@ A: I could, but probably won't. This is a personal project of mine that I made i
 **Q: Will you add Essential to your modpack?**
 
 A: No, I won't. I don't really like that they're close-sourced and add their own analytics. If you like this mod's features, I can recommend these alternatives:
-  - **Proximity voice chat** - Plasmo Voice - already in the modpack
+  - **Proximity voice chat** - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
   - **Cosmetics** - Cosmetica - and it's free, plus already in the modpack
   - **Server hosting** - [MCSS](https://www.mcserversoft.com/) - I personally use this with [Radmin VPN](https://www.radmin-vpn.com/), it's quite easy and user-friendly, supports lots of stuff, doesn't just mess about with your port forwarding and ISP
 
