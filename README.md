@@ -3,7 +3,7 @@
 
 ![Minecraft screenshot](https://raw.githubusercontent.com/FTEdianiaK/chocolate-bars/main/APP.webp)
 
-[Modlist](https://github.com/FTEdianiaK/chocolate-bars/blob/main/modlist.md) [Resource Packs](https://github.com/FTEdianiaK/chocolate-bars/blob/main/rplist.md)
+[Modlist](https://github.com/FTEdianiaK/chocolate-bars/blob/main/modlist.md) | [Resource Packs](https://github.com/FTEdianiaK/chocolate-bars/blob/main/rplist.md)
 
 ## Table of Contents
 
